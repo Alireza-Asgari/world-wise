@@ -83,6 +83,102 @@
         "lat": "36.15561783381855",
         "lng": "49.89990234375"
       }
+    },
+    {
+      "id": "56da",
+      "cityName": "Kaztalovka",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2024-10-15T13:04:37.763Z",
+      "notes": "fdfdsfsdfsdf",
+      "position": {
+        "lat": "49.809631563563094",
+        "lng": "49.96582031250001"
+      }
+    },
+    {
+      "id": "c639",
+      "cityName": "Khatanga",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-10-15T13:04:51.719Z",
+      "notes": "sdfsdf",
+      "position": {
+        "lat": "76.14295846479848",
+        "lng": "105.60058593750001"
+      }
+    },
+    {
+      "id": "aae9",
+      "cityName": "Dikson",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-10-15T13:05:08.572Z",
+      "notes": "",
+      "position": {
+        "lat": "77.1082308340476",
+        "lng": "105.29296875"
+      }
+    },
+    {
+      "id": "cf68",
+      "cityName": "Labrea",
+      "country": "Brazil",
+      "emoji": "🇧🇷",
+      "date": "2024-10-15T13:05:35.826Z",
+      "notes": "",
+      "position": {
+        "lat": "-7.710991655433217",
+        "lng": "-65.56640625000001"
+      }
+    },
+    {
+      "id": "f468",
+      "cityName": "Luena",
+      "country": "Angola",
+      "emoji": "🇦🇴",
+      "date": "2024-10-15T13:09:54.608Z",
+      "notes": "",
+      "position": {
+        "lat": "-12.726084296948184",
+        "lng": "19.819335937500004"
+      }
+    },
+    {
+      "id": "3002",
+      "cityName": "South Slave Region",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-10-15T13:10:27.948Z",
+      "notes": "",
+      "position": {
+        "lat": "61.93895042666063",
+        "lng": "-118.12500000000001"
+      }
+    },
+    {
+      "id": "e0c5",
+      "cityName": "Ḩesar",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "🇮🇷",
+      "date": "2024-10-15T13:10:45.437Z",
+      "notes": "",
+      "position": {
+        "lat": "37.64903402157866",
+        "lng": "57.32666015625001"
+      }
+    },
+    {
+      "id": "eab2",
+      "cityName": "In Salah",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-10-15T13:11:59.598Z",
+      "notes": "",
+      "position": {
+        "lat": "28.459033019728068",
+        "lng": "2.6367187500000004"
+      }
     }
   ]
 }
